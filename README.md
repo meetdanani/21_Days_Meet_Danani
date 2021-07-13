@@ -6,3 +6,4 @@
 4- ML Basics
 5- ML Basics
 6- ML 
+7- numpy arrays
